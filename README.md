@@ -1,6 +1,6 @@
 
 
-# Proyecto calculadora con HTML, CSS y JavaScript
+# Proyecto calculadora con HTML y JavaScript
 
 ## **Indice**
 
@@ -25,8 +25,8 @@ HTML5 trabaja de la mano con CSS3 para crear páginas web que usamos todo los di
 * **Script**: Conecta HTML y JavaScript
 
 ## 3. Objetivo del Poryecto 
-Crear una calculadora en HTML, CSS y Java Scipript. 🖩💻
+Crear una calculadora en HTML y JavaScipript. 🖩💻
 
 ## 4. 📍Link a Demo.📍
-Aqui puedes visualizar mi proyecto terminado: [Página con HTML](https://paginaconhtml.netlify.app/)
+Aqui puedes visualizar mi proyecto terminado: [Página con HTML]( )
 
